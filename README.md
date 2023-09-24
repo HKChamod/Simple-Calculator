@@ -2,7 +2,7 @@
 
 A simple calculator web application built using HTML, CSS, and JavaScript.
 
-![Calculator Demo](Calculator/src/img/Screenshot 2023-09-24 095315.png)
+![Calculator Demo](https://github.com/HKChamod/Simple-Calculator/blob/f98c3c2649bd76d6d7f85d205e36e5b99cab266f/Calculator/src/img/cal.png?raw=true)
 
 ## Table of Contents
 
@@ -12,7 +12,6 @@ A simple calculator web application built using HTML, CSS, and JavaScript.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
@@ -32,7 +31,7 @@ This project is a web-based calculator that allows users to perform basic arithm
 
 You can try out the calculator by visiting the [live demo](#) (https://simple-cal.kesug.com/?i=1).
 
-![Calculator Demo](Calculator/src/img/Screenshot 2023-09-24 095315.png)
+![Calculator Demo](https://github.com/HKChamod/Simple-Calculator/blob/f98c3c2649bd76d6d7f85d205e36e5b99cab266f/Calculator/src/img/cal.png?raw=true)
 
 ## Installation
 
