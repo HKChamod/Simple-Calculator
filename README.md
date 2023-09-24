@@ -29,7 +29,7 @@ This project is a web-based calculator that allows users to perform basic arithm
 
 ## Demo
 
-You can try out the calculator by visiting the [live demo](#) (https://simple-cal.kesug.com/?i=1).
+You can try out the calculator by visiting the [live demo](https://simple-cal.kesug.com/?i=1).
 
 ![Calculator Demo](https://github.com/HKChamod/Simple-Calculator/blob/f98c3c2649bd76d6d7f85d205e36e5b99cab266f/Calculator/src/img/cal.png?raw=true)
 
