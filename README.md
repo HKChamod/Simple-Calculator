@@ -2,7 +2,7 @@
 
 A simple calculator web application built using HTML, CSS, and JavaScript.
 
-![Calculator Demo](/path-to-demo-gif-or-screenshot)
+![Calculator Demo](Calculator/src/img/Screenshot 2023-09-24 095315.png)
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ This project is a web-based calculator that allows users to perform basic arithm
 
 You can try out the calculator by visiting the [live demo](#) (https://simple-cal.kesug.com/?i=1).
 
-![Calculator Demo](/path-to-demo-gif-or-screenshot)
+![Calculator Demo](Calculator/src/img/Screenshot 2023-09-24 095315.png)
 
 ## Installation
 
@@ -41,7 +41,7 @@ To run this calculator locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/simple-calculator.git
+   git clone https://github.com/HKChamod/Simple-Calculator.git
    ```
 
 2. Navigate to the project directory:
@@ -94,10 +94,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 Please ensure that your contributions adhere to the project's coding guidelines and standards.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Thank you for using and contributing to the Simple Calculator project! If you have any questions or encounter any issues, please don't hesitate to [contact us](mailto:your-email@example.com).
+Thank you for using and contributing to the Simple Calculator project! If you have any questions or encounter any issues, please don't hesitate to [contact us](mailto:hkchamod87@gmail.com).
